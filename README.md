@@ -23,6 +23,8 @@ This workflow automates GitHub issue triage using AI. When a new issue is opened
 
 🚀 **Key Highlight:** AI classifies but does not decide — it does not close issues or assign people. A human reviews the Notion board and decides what to act on.
 
+**🔗 See a live Notion board populated by this workflow:** [Notion Demo Board](https://www.notion.so/360e7dab6a3080098c7efd3f638b1915?v=360e7dab6a30801896bd000cc9e7206f)
+
 ## ✨ Key Features
 
 ### 🔹 Smart AI Triage with Structured Prompts
